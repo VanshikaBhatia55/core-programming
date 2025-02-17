@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-package core_programming.control_flow.level3_problems;public class DigitCount {
-}
-=======
 package core_programming.control_flow.level3_problems;
 
 import java.util.Scanner;
@@ -20,4 +16,3 @@ public class DigitCount {
         System.out.println("The number of digits is: " + count);
     }
 }
->>>>>>> 51b98f09dba5f7f7c68b086afad4d4aaa9b344e5
